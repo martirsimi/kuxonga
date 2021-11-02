@@ -91,6 +91,11 @@ h2 {
 p { 
     color: yellow;
 }
+p#botao {
+    float: left;
+    padding: 10px;
+    margin: 5px;
+}
 footer {
     color: yellow;
     background-color: rgb(54, 11, 54);
